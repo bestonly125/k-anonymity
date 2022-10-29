@@ -1,5 +1,5 @@
 # k-anonymity
-[синтетический набор данных можно скачать здесь](https://github.com/bestonly125/marketing_syntetic_data)
+[Генератор синтетических данных можно скачать здесь](https://github.com/bestonly125/marketing_syntetic_data)
 
 #### Если тестирования проводится на новом наборе данных нужно указать искомый экселевский файл в каждом скрипте(например: df = pd.read_excel("marketing_case_v.0.7.xlsx"...)).
 
